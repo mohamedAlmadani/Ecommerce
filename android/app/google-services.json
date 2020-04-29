@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "588433262143",
+    "firebase_url": "https://ghasakstore-8f9a3.firebaseio.com",
+    "project_id": "ghasakstore-8f9a3",
+    "storage_bucket": "ghasakstore-8f9a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588433262143:android:5b9d2de20bde047cf41a8a",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588433262143-h3f822dqonl2vcnrq0nug4jcd1kce41k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1I31two899zgkC43Ib8o3rAGgrHrsBBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588433262143-h3f822dqonl2vcnrq0nug4jcd1kce41k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
