@@ -1,5 +1,6 @@
 # Ecommerce Application
- A new flutter application
+
+Ghasak Store to sell Wooden funiture
  
 `
 ## Getting Started
